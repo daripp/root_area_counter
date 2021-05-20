@@ -1,0 +1,2 @@
+# root_area_counter
+This code is designed to count and quantify roots in an image. The best way to do this is to lay the roots flat on a piece of paper with a blue disk of known size in the upper left hand quarter. Do not allow any of the roots to extend above or to the left of the disk so that it is always counted as 1. This code uses red, green, and blue channels to identify and quantify the area of roots. These channels can be separated or stacked.
